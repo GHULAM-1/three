@@ -1,3 +1,4 @@
+"use client";
 import React, { useEffect, useRef } from "react";
 import * as THREE from "three";
 import { ARButton } from "three/examples/jsm/webxr/ARButton";
